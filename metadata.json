@@ -1,0 +1,8 @@
+{
+  "name": "Remove Switcher Popup Delay Timeout",
+  "description": "Sets switcher popup delay timeout to zero",
+  "uuid": "remove-switcher-popup-delay-timeout@inrick.github.io",
+  "shell-version": [
+    "40"
+  ]
+}
